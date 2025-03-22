@@ -47,7 +47,7 @@ Here's how to get up and running with the Validator CLI:
 You can display help information using:
 
 ```bash
-validator-cli -help
+validator-cli -h
 # or
 validator-cli --help
 ```

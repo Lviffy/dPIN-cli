@@ -80,13 +80,6 @@ Start the validator using the specified private key file.
 validator-cli info /path/to/privateKey.txt
 ```
 
-### View Rewards
-
-```bash
-validator-cli rewards
-```
-
-Check your accumulated rewards from validation work.
 
 ### Ping a URL
 

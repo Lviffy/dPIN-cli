@@ -15,6 +15,30 @@ A **decentralized website monitoring system** leveraging **dPIN (Decentralized P
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Lviffy/dPIN">
 </div>
 
+## 📸 Preview Images
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="preview-images/landing-page.png" alt="Landing Page" width="200"></td>
+      <td><img src="preview-images/Features.png" alt="Features" width="200"></td>
+      <td><img src="preview-images/Pricing.png" alt="Pricing" width="200"></td>
+      <td><img src="preview-images/Validator-Dashboard.png" alt="Validator Dashboard" width="200"></td>
+      <td><img src="preview-images/Monitor.png" alt="Monitor" width="200"></td>
+    </tr>
+    <tr>
+      <td><img src="preview-images/Monitor-Graph.png" alt="Monitor Graph" width="200"></td>
+      <td><img src="preview-images/User-Dashboard.png" alt="User Dashboard" width="200"></td>
+      <td><img src="preview-images/Validatoions.png" alt="Validations" width="200"></td>
+      <td><img src="preview-images/validator-cli.png" alt="Validator CLI" width="200"></td>
+      <td><img src="preview-images/valiadtor-cli2.png" alt="Validator CLI 2" width="200"></td>
+    </tr>
+    <tr>
+      <td colspan="5" align="center"><em>Preview of the dPIN Website Monitoring System Interface</em></td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## 🔥 Key Features  
@@ -142,7 +166,6 @@ Before you can run the application, you'll need to obtain several API keys and c
 
 After obtaining all keys, add them to your `.env` files in both backend and frontend directories.
 
-<<<<<<< HEAD
 ## 🧠 Project Structure
 ```
 dPIN/
@@ -161,12 +184,6 @@ dPIN/
 └── validator-cli/         # CLI tool for validators
     ├── src/               # Source code
     └── utils/             # CLI utilities
-=======
-```bash
-validator-cli -h
-# or
-validator-cli --help
->>>>>>> a001277bcbb8e7c0fcb4141e9bacc843b5101c1a
 ```
 
 ---
@@ -194,7 +211,6 @@ If you face any issues, try these steps:
 ⚠️ **Issue:** No real-time alerts  
 🔹 **Solution:** Check if notifications are **enabled** in browser settings.  
 
-<<<<<<< HEAD
 ⚠️ **Issue:** Transaction failures  
 🔹 **Solution:** Ensure your wallet has **sufficient SOL** for transactions.  
 
@@ -202,8 +218,6 @@ If you face any issues, try these steps:
 🔹 **Solution:** Verify your Clerk API keys are correctly configured in your environment variables.
 
 ---
-=======
->>>>>>> a001277bcbb8e7c0fcb4141e9bacc843b5101c1a
 
 ## 📝 API Endpoints
 

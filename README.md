@@ -142,6 +142,7 @@ Before you can run the application, you'll need to obtain several API keys and c
 
 After obtaining all keys, add them to your `.env` files in both backend and frontend directories.
 
+<<<<<<< HEAD
 ## 🧠 Project Structure
 ```
 dPIN/
@@ -160,6 +161,12 @@ dPIN/
 └── validator-cli/         # CLI tool for validators
     ├── src/               # Source code
     └── utils/             # CLI utilities
+=======
+```bash
+validator-cli -h
+# or
+validator-cli --help
+>>>>>>> a001277bcbb8e7c0fcb4141e9bacc843b5101c1a
 ```
 
 ---
@@ -187,6 +194,7 @@ If you face any issues, try these steps:
 ⚠️ **Issue:** No real-time alerts  
 🔹 **Solution:** Check if notifications are **enabled** in browser settings.  
 
+<<<<<<< HEAD
 ⚠️ **Issue:** Transaction failures  
 🔹 **Solution:** Ensure your wallet has **sufficient SOL** for transactions.  
 
@@ -194,6 +202,8 @@ If you face any issues, try these steps:
 🔹 **Solution:** Verify your Clerk API keys are correctly configured in your environment variables.
 
 ---
+=======
+>>>>>>> a001277bcbb8e7c0fcb4141e9bacc843b5101c1a
 
 ## 📝 API Endpoints
 
